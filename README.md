@@ -1,2 +1,2 @@
-# integrador_nt_miercoles20262_1
+# integrador_nt_miercoles20262_Profe
 Proyecto integrador nuevas tecnologias
